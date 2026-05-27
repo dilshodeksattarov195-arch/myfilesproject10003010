@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersrocess",
+        "uuid": 15703170,
+        "checksum": "ga3j8b"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
